@@ -7,9 +7,13 @@
   font-weight: bolder;
   font-size: 1.8rem;
 }
+[data-view=navbar-area] .navbar {
+  background-image: url(https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Z3ltfGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+}
 [data-view=navbar-area] .fas {
   display: flex;
   gap: 0.2rem;
+  color: white;
 }
 
 @media only screen and (min-width: 992px) {
